@@ -1,0 +1,10 @@
+[?1h=[?25l[H[2J(B[mtop - 14:06:39 up 4 days, 18:04,  1 user,  load average: 0.00, 0.00, 0.00(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m 331 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m 327 (B[m[39;49msleeping,(B[m[39;49m[1m   3 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  1.6 (B[m[39;49mus,(B[m[39;49m[1m  0.0 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 98.4 (B[m[39;49mid,(B[m[39;49m[1m  0.0 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m   3891.8 (B[m[39;49mtotal,(B[m[39;49m[1m    586.1 (B[m[39;49mfree,(B[m[39;49m[1m   1626.8 (B[m[39;49mused,(B[m[39;49m[1m   1678.9 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m    923.2 (B[m[39;49mtotal,(B[m[39;49m[1m    612.0 (B[m[39;49mfree,(B[m[39;49m[1m    311.2 (B[m[39;49mused.(B[m[39;49m[1m   1912.7 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+[7m    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND            (B[m[39;49m[K
+(B[m   1263 antonio   20   0 4767472 149968  59140 S   6.2   3.8   8:28.71 gnome-shell        (B[m[39;49m[K
+(B[m  87482 antonio   20   0  566448  54816  41416 S   6.2   1.4   0:06.51 gnome-terminal-    (B[m[39;49m[K
+(B[m[1m  88668 antonio   20   0   13212   4112   3244 R   6.2   0.1   0:00.01 top                (B[m[39;49m[K
